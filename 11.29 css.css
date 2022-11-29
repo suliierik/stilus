@@ -1,0 +1,29 @@
+body {
+    color: #333a40; 
+    background-color: white;  
+}
+
+div {
+    color: #333a40;
+    
+}
+
+h1, h2, h3 {
+    color: blueviolet;
+}
+
+p {
+    line-height: 150%;
+    text-indent: 20px;
+    color: blueviolet;
+}
+
+a {
+    line-height: 150%;
+    text-indent: 20px;
+    color: blueviolet;
+}
+
+
+
+    
